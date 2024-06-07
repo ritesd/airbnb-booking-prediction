@@ -14,3 +14,8 @@
 - like creating a model in and storing in artifecte using mlflow
 - model code can be more improve using composit design pattern
 - there could be file validation for imput
+
+
+### Code Reference for model creation
+
+- https://www.kaggle.com/code/nehalbandal/airbnb-predicting-user-s-1st-booking-destination
