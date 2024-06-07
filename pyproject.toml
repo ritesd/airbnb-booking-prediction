@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "airbnb-booking-prediction"
+version = "0.1.0"
+description = ""
+authors = ["ritesd <d25ritesh@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.4"
+pandas = "^2.2.2"
+scikit-learn = "^1.5.0"
+catboost = "^1.2.5"
+fastapi = "^0.111.0"
+passlib = "^1.7.4"
+sqlalchemy = "^2.0.30"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
